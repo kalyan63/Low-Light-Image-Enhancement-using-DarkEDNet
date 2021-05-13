@@ -8,7 +8,7 @@ This model is mainly designed to retain most of the image features like colour a
 
     > The "Final Model.ipynb" Contains our model.
     
-    > We have trained our model using LoL dataset. The formate of this folder is that it contains Test and Train folders. Both these folders contains high and low folder, which containes images with dark images and Bright images with same names.
+    > We have trained our model using LoL dataset. The formate of this folder is that it contains Test and Train folders. Both these folders contains high and low folder, which containes images with dark images and Bright images with same names. Test dataset has been provided, But you have to download Train dataset(LoL dataset) if you want to train the model on your own. 
 
         Test
         ----> high
