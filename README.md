@@ -26,7 +26,7 @@ This model is mainly designed to retain most of the image features like colour a
      > **To Train the model with low ram (8-16 GB) , use tfrecords to store the image data set and then train the model.** 
    
 2. **Model Architecture:**
-    > !['Model'](DarkEDNet.png)
+    > !['Model'](model_.png)
 3. **Examples:**
     > !['Image1'](image1.png)
     > !['Image2'](image2.png)
