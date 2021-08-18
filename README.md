@@ -23,7 +23,7 @@ This model is mainly designed to retain most of the image features like colour a
 
         > 16 CPUs or higher 
         > 64 GB RAM or higher (Prefered 100GB in Google cloud)
-     > **To Train the model with low ram, use tfrecords to store the image data set and then train the model.** 
+     > **To Train the model with low ram (8-16 GB) , use tfrecords to store the image data set and then train the model.** 
    
 2. **Model Architecture:**
     > !['Model'](DarkEDNet.png)
