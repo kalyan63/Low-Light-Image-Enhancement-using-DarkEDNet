@@ -4,7 +4,7 @@ This is a CNN based model which includes encoder and decoder along with some con
 This is a supervised model which uses rmse as a loss function. We can use psnr or mae for loss as well. 
 This model is mainly designed to retain most of the image features like colour and resolution. This model uses a lot less parameters than the previous SOTA models. 
 
-1. How to use our model: 
+1. **How to use our model:** 
 
     > The "Final Model.ipynb" Contains our model.
     
@@ -23,3 +23,10 @@ This model is mainly designed to retain most of the image features like colour a
 
         > 16 CPUs or higher 
         > 64 GB RAM or higher (Prefered 100GB in Google cloud)
+2. **Model Architecture:**
+    > !['Model'](DarkEDNet.png)
+3. **Examples:**
+    > !['Image1'](image1.png)
+    > !['Image2'](image2.png)
+    > !['Image3'](image3.png)
+    > !['Image4'](image4.png)
